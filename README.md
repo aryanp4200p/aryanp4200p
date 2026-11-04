@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+AI-Powered+Applications)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil-08&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-08" /> </p>
 </div>
 
 ## 👨‍💻 About Me
