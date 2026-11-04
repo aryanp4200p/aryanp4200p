@@ -7,7 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryanp4200p&label=Profile%20views&color=0e75b6&style=flat" alt="aryanp4200p" /></p>
 </div>
-
 ## 👨‍💻 About Me
 
 I'm a final-year Computer Engineering student who enjoys building practical software, especially where full-stack development meets AI.
